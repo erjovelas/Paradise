@@ -1,0 +1,20 @@
+body{
+background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1909/Northern_Lights_Aurora_Mountain_Forest_Night_1366x768.jpg);
+background-repeat: no-repeat;  
+background-size: 2000px;
+}
+p{
+    font-size: 50px;
+    color:plum;
+    background-color: blueviolet;
+}
+h3{
+    font: size 10px;
+    color: darkmagenta;
+    background-color: coral;
+}
+h4{
+    font-size: 20px;
+    color: darkmagenta;
+    background-color: coral;
+}
